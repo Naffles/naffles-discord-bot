@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-08-07T15:02:34.572Z",
+  "summary": {
+    "numTotalTests": 0,
+    "numPassedTests": 0,
+    "numFailedTests": 0,
+    "numPendingTests": 0,
+    "numTodoTests": 0,
+    "success": false,
+    "startTime": 1754578933926,
+    "testResults": 1
+  },
+  "coverage": {
+    "lines": {
+      "total": 7382,
+      "covered": 0,
+      "percentage": 0
+    },
+    "functions": {
+      "total": 1297,
+      "covered": 0,
+      "percentage": 0
+    },
+    "branches": {
+      "total": 3123,
+      "covered": 0,
+      "percentage": 0
+    },
+    "statements": {
+      "total": 7562,
+      "covered": 0,
+      "percentage": 0
+    }
+  },
+  "testSuites": [
+    {
+      "name": "C:\\Users\\jay\\Dropbox\\Naffles\\Development\\Kiro\\naffles-discord-bot\\tests\\comprehensive\\unitTests.test.js",
+      "path": "C:\\Users\\jay\\Dropbox\\Naffles\\Development\\Kiro\\naffles-discord-bot\\tests\\comprehensive\\unitTests.test.js",
+      "duration": 0,
+      "status": "PASSED",
+      "tests": {
+        "total": 0,
+        "passed": 0,
+        "failed": 0,
+        "pending": 0,
+        "todo": 0
+      },
+      "failures": [],
+      "performance": {
+        "slow": 0,
+        "average": 0
+      }
+    }
+  ],
+  "performance": {
+    "totalDuration": 0,
+    "slowestSuite": {
+      "failureMessage": "  ● Test suite failed to run\n\n    Jest encountered an unexpected token\n\n    Jest failed to parse a file. This happens e.g. when your code or its dependencies use non-standard JavaScript syntax, or when Jest is not configured to support such syntax.\n\n    Out of the box Jest supports Babel, which will be used to transform your files into valid JS based on your Babel configuration.\n\n    By default \"node_modules\" folder is ignored by transformers.\n\n    Here's what you can do:\n     • If you are trying to use ECMAScript Modules, see https://jestjs.io/docs/ecmascript-modules for how to enable it.\n     • If you are trying to use TypeScript, see https://jestjs.io/docs/getting-started#using-typescript\n     • To have some of your \"node_modules\" files transformed, you can specify a custom \"transformIgnorePatterns\" in your config.\n     • If you need a custom transformation specify a \"transform\" option in your config.\n     • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the \"moduleNameMapper\" config option.\n\n    You'll find more details and examples of these config options in the docs:\n    https://jestjs.io/docs/configuration\n    For information about custom transformations, see:\n    https://jestjs.io/docs/code-transformation\n\n    Details:\n\n    C:\\Users\\jay\\Dropbox\\Naffles\\Development\\Kiro\\naffles-discord-bot\\tests\\comprehensive\\unitTests.test.js:7\n      jest\n      ^\n\n    SyntaxError: Identifier 'jest' has already been declared\n\n      at Runtime.createScriptFromCode (node_modules/jest-runtime/build/index.js:1505:14)\n",
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 0,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 0,
+        "runtime": 0,
+        "slow": false,
+        "start": 0
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "uncheckedKeys": [],
+        "unmatched": 0,
+        "updated": 0
+      },
+      "testExecError": {},
+      "testFilePath": "C:\\Users\\jay\\Dropbox\\Naffles\\Development\\Kiro\\naffles-discord-bot\\tests\\comprehensive\\unitTests.test.js",
+      "testResults": []
+    },
+    "fastestSuite": {
+      "failureMessage": "  ● Test suite failed to run\n\n    Jest encountered an unexpected token\n\n    Jest failed to parse a file. This happens e.g. when your code or its dependencies use non-standard JavaScript syntax, or when Jest is not configured to support such syntax.\n\n    Out of the box Jest supports Babel, which will be used to transform your files into valid JS based on your Babel configuration.\n\n    By default \"node_modules\" folder is ignored by transformers.\n\n    Here's what you can do:\n     • If you are trying to use ECMAScript Modules, see https://jestjs.io/docs/ecmascript-modules for how to enable it.\n     • If you are trying to use TypeScript, see https://jestjs.io/docs/getting-started#using-typescript\n     • To have some of your \"node_modules\" files transformed, you can specify a custom \"transformIgnorePatterns\" in your config.\n     • If you need a custom transformation specify a \"transform\" option in your config.\n     • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the \"moduleNameMapper\" config option.\n\n    You'll find more details and examples of these config options in the docs:\n    https://jestjs.io/docs/configuration\n    For information about custom transformations, see:\n    https://jestjs.io/docs/code-transformation\n\n    Details:\n\n    C:\\Users\\jay\\Dropbox\\Naffles\\Development\\Kiro\\naffles-discord-bot\\tests\\comprehensive\\unitTests.test.js:7\n      jest\n      ^\n\n    SyntaxError: Identifier 'jest' has already been declared\n\n      at Runtime.createScriptFromCode (node_modules/jest-runtime/build/index.js:1505:14)\n",
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 0,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 0,
+        "runtime": 0,
+        "slow": false,
+        "start": 0
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "uncheckedKeys": [],
+        "unmatched": 0,
+        "updated": 0
+      },
+      "testExecError": {},
+      "testFilePath": "C:\\Users\\jay\\Dropbox\\Naffles\\Development\\Kiro\\naffles-discord-bot\\tests\\comprehensive\\unitTests.test.js",
+      "testResults": []
+    },
+    "averageSuiteDuration": 0
+  },
+  "environment": {
+    "nodeVersion": "v22.17.1",
+    "platform": "win32",
+    "arch": "x64",
+    "memory": {
+      "rss": 148918272,
+      "heapTotal": 107433984,
+      "heapUsed": 87238032,
+      "external": 41011082,
+      "arrayBuffers": 37268350
+    },
+    "ci": false,
+    "testTimeout": 30000
+  }
+}
